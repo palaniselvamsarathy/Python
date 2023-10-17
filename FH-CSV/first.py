@@ -1,6 +1,6 @@
 import csv
 
-fp = open('data.txt','r')
+fp = open('MOCK_DATA.csv','r')
 
 new_data = csv.reader(fp)
 for line in new_data:
