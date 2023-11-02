@@ -6,4 +6,6 @@ dict1 = {
     'mail':'s@gmail.com'
     }
 
+
 print(dict1)
+# Duplicate Key not Allowed

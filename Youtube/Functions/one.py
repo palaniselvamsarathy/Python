@@ -1,0 +1,15 @@
+def painter():
+    print("The Function Call executed successfully")
+
+painter()
+painter()
+painter()
+painter()
+painter()
+painter()
+painter()
+painter()
+painter()
+painter()
+painter()
+painter()
