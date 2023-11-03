@@ -13,7 +13,7 @@ class MiniGoa:
 sathish = MiniGoa()
 sarathy = MiniGoa()
 rass = MiniGoa()
-sathish.name = "Sathish"
+# sathish.name = "Sathish"
 sarathy.name ="Sarathy"
 
 sathish.drink = "yes"

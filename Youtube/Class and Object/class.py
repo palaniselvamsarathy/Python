@@ -1,5 +1,5 @@
 class Goa:
-    name = ""
+    name = "Sara"
     def party(self):
         print("Let's Party")
     def beach(self):
@@ -13,3 +13,4 @@ print(ticket1)
 print(ticket2)
 ticket1.party()
 ticket2.beach()
+print(ticket1.name)
