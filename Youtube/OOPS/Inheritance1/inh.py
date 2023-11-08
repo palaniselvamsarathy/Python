@@ -3,6 +3,7 @@ class GP:
         print("HI")
 class P:
     def __init__(self):
+        super().__init__()
         print("Hello")
 class C(P,GP):
     def __init__(self):
