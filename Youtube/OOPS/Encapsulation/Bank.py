@@ -1,9 +1,13 @@
 from abc import *
+
 class Bank(ABC):
 
     @abstractmethod
-    def bal(self):
-        print("Bank Level Balance")
+    def cal_bal(self):
+        pass
 
-# Not bale to create obj 
-# Child class is responsible
+
+# b1 = Bank()
+# print(b1.__dict__)
+# we dont want create object? - abstract class
+# child class is responsible to provide impl
